@@ -12,8 +12,10 @@ docker-compose up
 
 
 验证服务：
+```text
 http://localhost/app001/
 http://localhost/app002/
+```
 
 本项目详细说明：
 https://segmentfault.com/a/1190000023939043
